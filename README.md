@@ -235,14 +235,7 @@ Amazon-Sales-Analysis/
     └── sales_category_distribution.png
 ```
 
----
 
-## 📸 Sample Visualizations
-
-<p align="center">
-  <img src="Images/store_sales.png" width="700">
-</p>
----
 
 ## 👩‍💻 Author
 
